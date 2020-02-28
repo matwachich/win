@@ -13,3 +13,8 @@ Make sure you have a working Go installation.
 See [Getting Started](http://golang.org/doc/install.html)
 
 Now run `go get github.com/lxn/win`
+
+Why fork?
+=========
+
+Because I want functions that are not too far from WinAPI, but a little bit Go-friendly (like the ability to pass Go strings...)
